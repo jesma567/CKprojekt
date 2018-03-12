@@ -21,3 +21,5 @@ ChromakeyProjekt/Content/StarterContent/
 
 *.ini
 ChromakeyProjekt/.vs/
+ChromakeyProjekt/Plugins/OpenCV/Intermediate/Build/Win64/UE4Editor/Development/UE4Editor-OpenCV-5187.dll.response
+ChromakeyProjekt/Plugins/OpenCV/Binaries/Win64/UE4Editor.modules

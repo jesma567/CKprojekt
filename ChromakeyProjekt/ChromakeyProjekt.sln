@@ -3,19 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Engine", "Engine", "{56EEF33B-5E72-49DF-8243-33D19E765A13}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Engine", "Engine", "{B180D459-1095-433A-ACFE-7C766E0CD22A}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Games", "Games", "{803D72F6-2B24-4FEA-9EF2-5E0F8B6E8B1E}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Games", "Games", "{42272CB4-0DDF-485A-9971-7AFF7CEC4586}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "UE4", "Intermediate\ProjectFiles\UE4.vcxproj", "{8EE7E9D6-EDEB-4E6B-AB9E-281B013AF77A}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ChromakeyProjekt", "Intermediate\ProjectFiles\ChromakeyProjekt.vcxproj", "{DBC37EE7-02FD-4023-922C-F1134D5F2755}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{64A4600B-B016-4ADD-94F2-09350A349718}"
-	ProjectSection(SolutionItems) = preProject
-		Source\ChromakeyProjekt\MyActor.cpp = Source\ChromakeyProjekt\MyActor.cpp
-		Source\ChromakeyProjekt\MyActor.h = Source\ChromakeyProjekt\MyActor.h
-	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -97,10 +91,10 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{8EE7E9D6-EDEB-4E6B-AB9E-281B013AF77A} = {56EEF33B-5E72-49DF-8243-33D19E765A13}
-		{DBC37EE7-02FD-4023-922C-F1134D5F2755} = {803D72F6-2B24-4FEA-9EF2-5E0F8B6E8B1E}
+		{8EE7E9D6-EDEB-4E6B-AB9E-281B013AF77A} = {B180D459-1095-433A-ACFE-7C766E0CD22A}
+		{DBC37EE7-02FD-4023-922C-F1134D5F2755} = {42272CB4-0DDF-485A-9971-7AFF7CEC4586}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {77F458D5-092F-4D76-A473-53D20E0B36BD}
+		SolutionGuid = {47D2D0F6-AEF5-4656-A0AD-674A146B8166}
 	EndGlobalSection
 EndGlobal
